@@ -535,7 +535,7 @@
     }
 
     //connection
-    // $con = mysqli_connect('localhost', 'root', 'next0205', 'pettury');
+    // $con = mysqli_connect('localhost', 'root', '12341234', 'pettury');
 
     // if (!$con)
     // {
